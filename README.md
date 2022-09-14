@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://github.com/Ammar22-star0/Profile-card-component.git)
+- Solution URL: [Add solution URL here](https://github.com/Ammar22-star0/Profile-card-component.git)
+- Live Site URL: [Add live site URL here]( https://ammar22-star0.github.io/Profile-card-component/)
 
 ## My process
 
